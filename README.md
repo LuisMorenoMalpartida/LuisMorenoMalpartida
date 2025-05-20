@@ -9,7 +9,6 @@ Hello! I'm Luis Moreno Malpartida, a passionate Full Stack and Android Developer
 - 🌱 Learning more about Kotlin, Jetpack Compose and Cloud Technologies
 - 👯 Looking to collaborate on open source projects
 - 💬 Ask me about Android Development, Java, Kotlin or Web Technologies
-- 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/luis-moreno-malpartida-801693277)
 
 ## 🛠️ Technologies & Tools
 ### Mobile Development
