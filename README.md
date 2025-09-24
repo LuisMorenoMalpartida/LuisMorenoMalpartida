@@ -2,7 +2,9 @@
 
 ### Full Stack Developer & Coordinador de Proyectos con Pasión por la Tecnología 🚀
 
-![Profile Banner](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80) 
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" alt="Profile Banner" width="800"/> 
+</p> 
 
 ## Un Poco Sobre Mí...
 ¡Es un placer conocerte! Me llamo Luis Enrique y soy un desarrollador Full Stack que realmente disfruta construir cosas increíbles en la web. Además de programar, tengo experiencia en liderar y coordinar proyectos, asegurándome de que todo fluya sin problemas y que alcancemos nuestros objetivos.
