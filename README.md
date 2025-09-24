@@ -7,7 +7,7 @@
 </p> 
 
 ## Un Poco Sobre Mí...
-¡Es un placer conocerte! Me llamo Luis Enrique y soy un desarrollador Full Stack que realmente disfruta construir cosas increíbles en la web. Además de programar, tengo experiencia en liderar y coordinar proyectos, asegurándome de que todo fluya sin problemas y que alcancemos nuestros objetivos.
+Me llamo Luis Enrique y soy un desarrollador Full Stack que realmente disfruta construir cosas increíbles en la web. Además de programar, tengo experiencia en liderar y coordinar proyectos, asegurándome de que todo fluya sin problemas y que alcancemos nuestros objetivos.
 
 Mi motor es la curiosidad; me encanta sumergirme en nuevas soluciones tecnológicas y creo firmemente en el poder de la colaboración. Siempre estoy buscando formas de hacer que el software sea más robusto, eficiente y, sobre todo, ¡útil!
 
