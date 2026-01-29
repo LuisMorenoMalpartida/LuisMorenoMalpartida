@@ -1,94 +1,70 @@
-¡Hola! Soy Luis Enrique Moreno Malpartida 👋
+# ¡Hola! Soy Luis Enrique Moreno Malpartida 👋
 
-Ingeniero de Software con IA | Full Stack Developer | QA Specialist 🚀
+### Full Stack Developer & Coordinador de Proyectos con Pasión por la Tecnología 🚀
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://images.unsplash.com/photo-1555066931-4365d14bab8c%3Fixlib%3Drb-4.0.3%26auto%3Dformat%26fit%3Dcrop%26w%3D1470%26q%3D80" alt="Banner de Programación" width="800"/>
-</p>
+  <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" alt="Profile Banner" width="800"/> 
+</p> 
 
-👨‍💻 Sobre Mí
+## Un Poco Sobre Mí...
+Me llamo Luis Enrique y soy un desarrollador Full Stack que realmente disfruta construir cosas increíbles en la web. Además de programar, tengo experiencia en liderar y coordinar proyectos, asegurándome de que todo fluya sin problemas y que alcancemos nuestros objetivos.
 
-Soy un apasionado de la Ingeniería de Software con Inteligencia Artificial, egresado de SENATI. Mi enfoque principal es el desarrollo Full Stack combinado con un fuerte compromiso con el Aseguramiento de Calidad (QA) y el testing automatizado.
+Mi motor es la curiosidad; me encanta sumergirme en nuevas soluciones tecnológicas y creo firmemente en el poder de la colaboración. Siempre estoy buscando formas de hacer que el software sea más robusto, eficiente y, sobre todo, ¡útil!
 
-Me especializo en liderar equipos bajo la metodología SCRUM, garantizando que cada línea de código no solo funcione, sino que cumpla con los estándares más altos de robustez y eficiencia.
+- 🔭 **Actualmente:** Estoy liderando y coordinando equipos en el desarrollo de proyectos web que buscan generar un impacto real.
+- 🌱 **Siempre Aprendiendo:** Mi mente está en constante ebullición, explorando el fascinante mundo de la Inteligencia Artificial y perfeccionando mis habilidades en metodologías ágiles. ¡El aprendizaje nunca termina!
+- 🤝 **Colaboraciones:** Si tienes una idea genial para un proyecto open source o simplemente quieres discutir sobre tecnología, ¡hablemos! Estoy abierto a colaborar y aportar mi granito de arena.
+- 💬 **Pregúntame lo que quieras sobre:** Desarrollo Web (¡Frontend y Backend me encantan por igual!), cómo gestionar un proyecto tecnológico, o cualquier cosa relacionada con JavaScript, Python, PHP o MySQL. ¡Siempre feliz de compartir!
 
-🔭 Actualmente: Liderando proyectos web y simulando escenarios de riesgo con IA.
-
-🌱 Enfoque actual: Profundizando en arquitecturas en la nube (AWS/Azure) y despliegues DevOps.
-
-⚡ Diferenciador: No solo desarrollo la funcionalidad, diseño los casos de prueba (QA) para asegurar la integridad del negocio.
-
-🤝 Colaboración: Disponible para proyectos de desarrollo web complejo, automatización de pruebas e implementación de lógica de IA.
-
-💼 Experiencia Destacada
-
-AM CONSULTORIA | Junio 2025 - Noviembre 2025
-
-Programador Junior Web Full Stack
-
-Lógica Avanzada: Implementación de módulos complejos con Chart.js y tableros Kanban con drag-and-drop.
-
-QA & Testing: Diseño de validaciones mediante Boundary Value Analysis y ejecución de Cross-browser testing.
-
-Innovación IA: Desarrollo de un módulo de "Diagnóstico IA" que actúa como un Test Runner automatizado para predecir fallos en cronogramas.
-
-ARTE IDEAS | Febrero 2025 - Junio 2025
-
-Programador Junior Web
-
-Desarrollo Full Stack utilizando PHP, MySQL, JQuery y WordPress.
-
-Realización de Testing de Integración (APIs/Endpoints) para asegurar la comunicación fluida con el backend.
-
-Trabajo bajo metodología ágil SCRUM.
-
-ICSM - Instituto Científico Minero | 2024 - 2025
-
-Líder y Coordinador de Proyectos Web
-
-Dirección de equipo para la construcción integral de la plataforma web institucional.
-
-Roles de Frontend y Backend Full Developer bajo metodología SCRUM.
-
-🛠️ Mi Caja de Herramientas Digital
+## Mis Herramientas Favoritas (Mi Caja de Juguetes Digital) 🛠️
 
 ### Lenguajes de Programación
-
 Estos son los cerebros detrás de mis proyectos:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-Magia en el Frontend (Lo que ves y sientes)
-
+### Magia en el Frontend (Lo que ves y sientes)
 Creando experiencias de usuario intuitivas y atractivas:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-Motores en el Backend (La lógica detrás de escena)
-
+### Motores en el Backend (La lógica detrás de escena)
 Donde la magia real sucede para que todo funcione a la perfección:
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-00599C?style=for-the-badge&logo=postman&logoColor=white)
 
-Donde guardo los datos (Bases de Datos SQL & NoSQL)
-
+### Donde guardo los datos (Bases de Datos)
 El corazón de la información:
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-🧪 QA, Testing & DevOps (Aseguramiento de Calidad)
-
-Garantizando la robustez del sistema:
-
-Mi Centro de Control (Herramientas y Organización)
-
+### Mi Centro de Control (Herramientas y Control de Versiones)
 Para mantener todo organizado y en la dirección correcta:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-📈 Mi Actividad en GitHub
+## Mis Números en GitHub 📈
+Un vistazo rápido a mi actividad y proyectos:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisMorenoMalpartida&show_icons=true&theme=radical&hide_border=true)
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=LuisMorenoMalpartida&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Luis" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMorenoMalpartida&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" height="180"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMorenoMalpartida&layout=compact&theme=radical&hide_border=true)
 
-📫 Hablemos...
+---
 
-Email: gus6bmp@gmail.com
+¡Gracias por visitar mi espacio! Si te gusta lo que ves o tienes alguna pregunta, no dudes en echar un vistazo a mis repositorios o conectar conmigo.
 
-LinkedIn: Luis Enrique Moreno Malpartida
+⭐️ Con cariño, [Luis Moreno Malpartida](https://github.com/LuisMorenoMalpartida)
 
-Ubicación: Lima, Perú 🇵🇪
 
-“El software de calidad no se programa, se construye con ingeniería y pasión.” 💻✨
+agregale lo de no sql como mongodb, mariaa, etc
+
+usa las herramientas, lenguajes y frameworks que estan en mi cv 
