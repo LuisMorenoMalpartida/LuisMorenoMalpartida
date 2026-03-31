@@ -17,7 +17,7 @@ Además de programar, cuento con experiencia liderando y coordinando proyectos t
 - 🌱 **Aprendiendo:** Inteligencia Artificial, arquitectura de software y buenas prácticas ágiles
 - ⚡ **Metodologías:** Experiencia trabajando con Scrum
 - 🤝 **Colaboración:** Abierto a proyectos open source y nuevas ideas
-- 💬 **Pregúntame sobre:** Desarrollo Web, Backend, Frontend, APIs, bases de datos y gestión de proyectos
+- 💬 **Pregúntame sobre:** Desarrollo Web, Backend, Frontend, Mobile, APIs, bases de datos y gestión de proyectos
 
 ---
 
@@ -25,6 +25,7 @@ Además de programar, cuento con experiencia liderando y coordinando proyectos t
 
 ### 💻 Lenguajes de Programación
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -38,6 +39,12 @@ Además de programar, cuento con experiencia liderando y coordinando proyectos t
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
+
+### 📱 Desarrollo Móvil
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
